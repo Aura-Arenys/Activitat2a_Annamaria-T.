@@ -1,0 +1,12 @@
+  
+ *{
+            margin:0;
+            padding:0;
+        }
+
+        body {
+            font-family: 'Times new Roman', cursive;
+            font-size: 1.2rem;
+            background-color: #f3f3f3;
+            color:#989898;
+        }
